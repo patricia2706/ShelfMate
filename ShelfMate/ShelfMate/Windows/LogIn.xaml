@@ -1,0 +1,35 @@
+﻿<Window x:Class="ShelfMate.Windows.LogIn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShelfMate.Windows"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="LogIn" Height="450" Width="800">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="1">
+            <StackPanel HorizontalAlignment="Stretch" VerticalAlignment="Center">
+                <TextBlock Name="loginTxt" FontFamily="Times New Roman" FontSize="40" Margin="20" HorizontalAlignment="Center" VerticalAlignment="Center">LOG IN</TextBlock>
+                <GroupBox Name="usernameGrpBox" Header="Username" FontFamily="Times New Roman" Margin="20" FontSize="15" >
+                    <TextBox Name="usernameTxtBox" Margin="10" FontFamily="Times New Roman"></TextBox>
+                </GroupBox>
+
+                <GroupBox Name="passwordGrpBox" Header="Password" FontFamily="Times New Roman" Margin="20" FontSize="15">
+                    <PasswordBox Name="passwordTxtBox" Margin="10" FontFamily="Times New Roman" ></PasswordBox>
+                </GroupBox>
+
+                <Button Name="loginButton" Margin="20" Height="40" Click="loginButton_Click">Autentifica-te</Button>
+
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+</Window>

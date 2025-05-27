@@ -1,0 +1,82 @@
+﻿<Window x:Class="ShelfMate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShelfMate"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="500" Width="900">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="7*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <TextBlock Name="titleTxt"  HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Times New Roman" FontSize="40">Biblioteca ta</TextBlock>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"></ColumnDefinition>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0">
+                <DataGrid ItemsSource="{Binding Books}"
+                          Name="dataGridBooks"
+          SelectionChanged="DataGrid_SelectionChanged"
+          AutoGenerateColumns="False"
+          HeadersVisibility="Column"
+          GridLinesVisibility="None"
+          CanUserAddRows="False"
+          RowHeight="70"
+          Margin="10"
+          AlternatingRowBackground="LightGray"
+          BorderBrush="MediumOrchid"
+          BorderThickness="3"
+          ColumnHeaderHeight="30">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Titlu" Binding="{Binding Title}" Width="*" />
+                        <DataGridTextColumn Header="Autor" Binding="{Binding Author}" Width="*" />
+                        <DataGridTextColumn Header="Gen" Binding="{Binding Genre}" Width="*" />
+                        <DataGridTextColumn Header="An" Binding="{Binding PublishYear}" Width="*" />
+                        <DataGridTemplateColumn Header="Copertă" Width="*">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding FullCoverImagePath}"
+                                        VerticalAlignment="Center"
+                                        HorizontalAlignment="Center"
+                                        Stretch="Uniform"
+                                        Height="65"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+
+
+            </Grid>
+
+            <Grid Grid.Column="1">
+                <StackPanel VerticalAlignment="Center">
+                    <Button Name="addBookBtn" Background="MediumOrchid" Height="40" FontFamily="Times New Roman" FontSize="20"  Margin="10" Click="addBookBtn_Click">Adaugă carte</Button>
+                    <Button Name="editBookBtn" Background="MediumOrchid" Height="40" FontFamily="Times New Roman" FontSize="20" Margin="10" Click="editBookBtn_Click" Visibility="Collapsed">Editează</Button>
+                    <Button Name="deleteBookBtn" Background="MediumOrchid" Height="40" FontFamily="Times New Roman" FontSize="20" Margin="10" Click="deleteBookBtn_Click" Visibility="Collapsed">Şterge</Button>
+                    <Button Name="statisticsBookBtn" Background="MediumOrchid" Height="40" FontFamily="Times New Roman" FontSize="20" Margin="10" Click="statisticsBtn_Click">Statistici gen</Button>
+                    <Button Name="filtrareBookBtn" Background="MediumOrchid" Height="40" FontFamily="Times New Roman" FontSize="20" Margin="10" Click="filtrareBookBtn_Click">Filtrează gen</Button>
+
+                    <RadioButton Name="allRadioBtn" FontFamily="Times New Roman" FontSize="15" HorizontalAlignment="Center" Visibility="Collapsed" Checked="allRadioBtn_Checked">Toate</RadioButton>
+                    <RadioButton Name="fictiuneRadioBtn" FontFamily="Times New Roman" FontSize="15" HorizontalAlignment="Center" Visibility="Collapsed" Checked="fictiuneRadioBtn_Checked">Ficţiune</RadioButton>
+                    <RadioButton Name="romanceRadioBtn" FontFamily="Times New Roman" FontSize="15" HorizontalAlignment="Center" Visibility="Collapsed" Checked="romanceRadioBtn_Checked">Romantic</RadioButton>
+                    <RadioButton Name="SFRadioBtn" FontFamily="Times New Roman" FontSize="15" HorizontalAlignment="Center" Visibility="Collapsed" Checked="SFRadioBtn_Checked">SF</RadioButton>
+                    <RadioButton Name="thrillerRadioBtn" FontFamily="Times New Roman" FontSize="15" HorizontalAlignment="Center" Visibility="Collapsed" Checked="thrillerRadioBtn_Checked">Thriller</RadioButton>
+                    <RadioButton Name="biografieRadioBtn" FontFamily="Times New Roman" FontSize="15" HorizontalAlignment="Center" Visibility="Collapsed" Checked="biografieRadioBtn_Checked" >Biografie</RadioButton>
+                    <RadioButton Name="istorieRadioBtn" FontFamily="Times New Roman" FontSize="15" HorizontalAlignment="Center" Visibility="Collapsed" Checked="istorieRadioBtn_Checked" >Istorie</RadioButton>
+                </StackPanel>
+            </Grid>
+        </Grid>
+
+    </Grid>
+</Window>

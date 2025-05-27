@@ -1,0 +1,27 @@
+﻿<Window x:Class="ShelfMate.Windows.StatisticsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShelfMate.Windows"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="StatisticsWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="7*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <Grid Grid.Row="0">
+            <Button Name="backBtn" HorizontalAlignment="Left" FontFamily="Times New Roman" Width="60" Margin="15" Click="backBtn_Click">Inapoi</Button>
+            <TextBlock Name="titleTxt"  HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Times New Roman" FontSize="40">Statistici gen</TextBlock>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <lvc:PieChart Name="genrePieChart" />
+        </Grid>
+    </Grid>
+</Window>

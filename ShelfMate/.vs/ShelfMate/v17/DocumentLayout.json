@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\windows\\addbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\windows\\addbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\windows\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\windows\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\windows\\statisticswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\windows\\statisticswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\windows\\statisticswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\windows\\statisticswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\windows\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\windows\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\shelfmate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\shelfmate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\windows\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\windows\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|d:\\desktop\\facultate\\mtp\\proiect\\shelfmate\\shelfmate\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688FB7A2-550C-4C10-9B34-173A38F56D96}|ShelfMate\\ShelfMate.csproj|solutionrelative:shelfmate\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 158,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatisticsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\StatisticsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShelfMate\\Windows\\StatisticsWindow.xaml.cs",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\StatisticsWindow.xaml.cs",
+              "RelativeToolTip": "ShelfMate\\Windows\\StatisticsWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwCQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:16:08.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatisticsWindow.xaml",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\StatisticsWindow.xaml",
+              "RelativeDocumentMoniker": "ShelfMate\\Windows\\StatisticsWindow.xaml",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\StatisticsWindow.xaml",
+              "RelativeToolTip": "ShelfMate\\Windows\\StatisticsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T12:16:04.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShelfMate.csproj",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\ShelfMate.csproj",
+              "RelativeDocumentMoniker": "ShelfMate\\ShelfMate.csproj",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\ShelfMate.csproj",
+              "RelativeToolTip": "ShelfMate\\ShelfMate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T18:40:58.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddBook.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\AddBook.xaml.cs",
+              "RelativeDocumentMoniker": "ShelfMate\\Windows\\AddBook.xaml.cs",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\AddBook.xaml.cs",
+              "RelativeToolTip": "ShelfMate\\Windows\\AddBook.xaml.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAwwLcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:17:58.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogIn.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\LogIn.xaml.cs",
+              "RelativeDocumentMoniker": "ShelfMate\\Windows\\LogIn.xaml.cs",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\LogIn.xaml.cs",
+              "RelativeToolTip": "ShelfMate\\Windows\\LogIn.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:07:38.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBook.xaml",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\AddBook.xaml",
+              "RelativeDocumentMoniker": "ShelfMate\\Windows\\AddBook.xaml",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\AddBook.xaml",
+              "RelativeToolTip": "ShelfMate\\Windows\\AddBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-24T22:38:02.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ShelfMate\\Models\\Book.cs",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Models\\Book.cs",
+              "RelativeToolTip": "ShelfMate\\Models\\Book.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:30:00.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "ShelfMate\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "ShelfMate\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:39:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\App.xaml",
+              "RelativeDocumentMoniker": "ShelfMate\\App.xaml",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\App.xaml",
+              "RelativeToolTip": "ShelfMate\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-24T20:30:37.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShelfMate\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ShelfMate\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAqwKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:22:09.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ShelfMate\\Models\\User.cs",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Models\\User.cs",
+              "RelativeToolTip": "ShelfMate\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:12:34.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogIn.xaml",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\LogIn.xaml",
+              "RelativeDocumentMoniker": "ShelfMate\\Windows\\LogIn.xaml",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\LogIn.xaml",
+              "RelativeToolTip": "ShelfMate\\Windows\\LogIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-24T19:43:37.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ShelfMate\\Windows\\MainWindow.xaml",
+              "ToolTip": "D:\\Desktop\\facultate\\mtp\\proiect\\ShelfMate\\ShelfMate\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "ShelfMate\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-24T19:42:46.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 159,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
