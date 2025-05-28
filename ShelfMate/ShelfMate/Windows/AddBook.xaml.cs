@@ -92,23 +92,23 @@ namespace ShelfMate.Windows
                     string extension = System.IO.Path.GetExtension(originalPath);
                     string fileNameWithoutExt = System.IO.Path.GetFileNameWithoutExtension(originalPath);
 
-                    // Generează un nume unic pentru fișierul copiat
+                    
                     string uniqueName = $"{fileNameWithoutExt}_{Guid.NewGuid()}{extension}";
 
-                    // Creează folderul Images dacă nu există
+                    
                     string imagesFolder = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Images");
                     Directory.CreateDirectory(imagesFolder);
 
-                    // Calea completă unde vom copia imaginea
+                    
                     string destPath = System.IO.Path.Combine(imagesFolder, uniqueName);
 
-                    // Copiază imaginea în folderul aplicației
+                    
                     File.Copy(originalPath, destPath, true);
 
-                    // Setează imaginea în UI (ex: un Image control numit coverImage)
+                    
                     coverImage.Source = new BitmapImage(new Uri(destPath));
 
-                    // Creează calea relativă pentru salvare în baza de date
+                    
                     relativePath = System.IO.Path.Combine("Images", uniqueName);
                 }
             }
